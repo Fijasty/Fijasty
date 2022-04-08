@@ -9,7 +9,7 @@
 [<img align="center" alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>][css]
 [<img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=3d3919"/>][js]
 [<img align="center" alt="Java" src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E&color=094269"/>][java]
-[<img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%231572B6.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>][nodejs]
+[<img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%231572B6.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=68a063"/>][nodejs]
 
 ##  <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats 
 
