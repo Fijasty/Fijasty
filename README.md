@@ -1,4 +1,4 @@
- ## Hi, I'm Fijasty!
+ ## 👋 Hi, I'm Fijasty!
 
 
 <img src="https://komarev.com/ghpvc/?username=Fijasty" alt="Fijasty" /><br/><br/>
